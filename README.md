@@ -2,6 +2,18 @@
 
 This project was completed as part of my Special Topic paper for my final year.
 
-You will need to have a working web server for this to successfully work. I might even write a quick node server to this.
+### Installing and Running SignMotion
+
+If you do not have node, feel free to install it or run the project in a traditional web server. 
+
+Install the required node packages
+```
+npm install
+```
+
+Running it
+```
+npm start
+```
 
 [Demo](http://danni.dickson.com/signMotion)

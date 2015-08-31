@@ -1,0 +1,11 @@
+{
+  "name": "SignMotion",
+  "version:": "1.0",
+  "dependencies": {
+  	"express": "~4.0.0"
+  },
+
+  "scripts": {
+  	"start": "node server.js"
+  }
+}
