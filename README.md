@@ -16,4 +16,4 @@ Running it
 npm start
 ```
 
-[Demo](http://danni.dickson.com/signMotion)
+[Demo](http://dannidickson.com/signMotion/)
